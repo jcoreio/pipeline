@@ -1,10 +1,7 @@
 **
-!**/*.js
-!**/*.js.flow
+!*.js
+!*.js.flow
+!*.d.ts
 !/*.md
+!package.json
 !yarn.lock
-/node_modules
-/test
-/coverage
-__tests__
-/.*
